@@ -1,0 +1,334 @@
+{
+  "chapter": 2,
+  "title": "Il y a un chat",
+  "grammarStep": 1,
+  "grammarName": "Existence: il y a",
+  "scene": {
+    "setting": "Avril's hidden underground laboratory beneath Paris. Chemistry equipment, dim oil lamps, a small bed, and a talking cat named Darwin.",
+    "characters": [
+      "Avril",
+      "Darwin"
+    ],
+    "mood": "cozy, intimate, secretive",
+    "imagePrefix": "Underground lab with glass beakers and tubes, oil lamp light, a young red-haired woman and a grey cat"
+  },
+  "newLemmas": [
+    "Paul",
+    "Franklin",
+    "Pizoni",
+    "chat",
+    "savant",
+    "papa",
+    "maman",
+    "nouveau",
+    "dehors",
+    "fort",
+    "malade"
+  ],
+  "whitelist": [
+    "!",
+    "\"",
+    "'",
+    "(",
+    ")",
+    ",",
+    "-",
+    ".",
+    "...",
+    ":",
+    ";",
+    "?",
+    "Avril",
+    "Darwin",
+    "Franklin",
+    "Paul",
+    "Pizoni",
+    "Pops",
+    "a",
+    "avoir",
+    "bon",
+    "c'est",
+    "ce",
+    "chapeau",
+    "chat",
+    "dehors",
+    "fort",
+    "ici",
+    "il",
+    "il y a",
+    "jeune",
+    "l'",
+    "la",
+    "le",
+    "lui",
+    "maison",
+    "malade",
+    "maman",
+    "mer",
+    "merci",
+    "non",
+    "nouveau",
+    "oui",
+    "papa",
+    "pont",
+    "savant",
+    "un",
+    "une",
+    "vieux",
+    "voici",
+    "voilà",
+    "y",
+    "«",
+    "»",
+    "être",
+    "—"
+  ],
+  "sentences": [
+    {
+      "id": "ch02-01",
+      "text": "Il y a un chat.",
+      "imagePrompt": "Medium shot, eye-level, of Darwin the grey cat sitting prominently on a workbench in a cluttered underground laboratory, glass beakers and copper tubes surrounding him. Oil lamps on the bench cast warm amber light across the stone walls, mood cozy and secretive.",
+      "readings": [],
+      "type": "teaching",
+      "group": "lab_intro",
+      "speaker": "Darwin"
+    },
+    {
+      "id": "ch02-02",
+      "text": "Le chat est ici.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "teaching",
+      "group": "lab_intro",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch02-03",
+      "text": "C'est Paul.",
+      "imagePrompt": "Medium shot, eye-level, of Avril facing the viewer in the underground lab, holding up a faded photograph showing three scientists: Paul with dark hair at center, Franklin older and serious beside him, and Pizoni looking nervous to the side. The photograph is prominent and clearly visible. Oil lamp on the bench casts warm amber glow on the photo, mood discovering and reverent.",
+      "readings": [],
+      "type": "teaching",
+      "group": "meet_scientists",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch02-04",
+      "text": "C'est Franklin.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "teaching",
+      "group": "meet_scientists",
+      "speaker": "Narrateur"
+    },
+    {
+      "id": "ch02-05",
+      "text": "C'est Pizoni.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "teaching",
+      "group": "meet_scientists",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch02-06",
+      "text": "Il y a un savant. C'est Franklin !",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "meet_scientists",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch02-07",
+      "text": "Franklin est fort.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "meet_scientists",
+      "speaker": "Narrateur"
+    },
+    {
+      "id": "ch02-08",
+      "text": "Pizoni est ici. Voilà Pizoni !",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "meet_scientists",
+      "speaker": "Pizoni"
+    },
+    {
+      "id": "ch02-09",
+      "text": "Paul est un savant.",
+      "imagePrompt": "Medium shot, eye-level, of a dusty desk in the underground laboratory covered in old blueprints and scientific documents left behind, a faded portrait of Paul the scientist pinned to the wall above. The portrait shows Paul's focused face prominently. Oil lamps cast warm amber glow on the aged papers, mood studious and nostalgic.",
+      "readings": [],
+      "type": "teaching",
+      "group": "scientists_work",
+      "speaker": "Paul"
+    },
+    {
+      "id": "ch02-10",
+      "text": "Paul est ici. Paul est un savant.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "scientists_work",
+      "speaker": "Paul"
+    },
+    {
+      "id": "ch02-11",
+      "text": "C'est le papa.",
+      "imagePrompt": "Close-up, eye-level, of a small framed family photograph sitting on a shelf in the underground lab, showing Paul the father kneeling beside young Avril with Annette standing nearby smiling. The photograph is prominent and central. Oil-lamp warmth fills the scene, chemistry equipment visible on shelves behind, mood loving and bittersweet.",
+      "readings": [],
+      "type": "teaching",
+      "group": "family",
+      "speaker": "Paul"
+    },
+    {
+      "id": "ch02-12",
+      "text": "C'est la maman.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "teaching",
+      "group": "family",
+      "speaker": "Narrateur"
+    },
+    {
+      "id": "ch02-13",
+      "text": "Voilà le papa !",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "family",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch02-14",
+      "text": "Voilà la maman !",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "family",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch02-15",
+      "text": "Le papa est bon. La maman est ici.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "family",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch02-16",
+      "text": "Darwin est malade.",
+      "imagePrompt": "Medium shot, eye-level, of Darwin the grey cat lying weakly on a lab table, his body limp and eyes half-closed, clearly sick. Avril stands beside him facing the viewer with a worried expression, an oil lamp casting soft warm light over the scene, mood anxious and tender.",
+      "readings": [],
+      "type": "teaching",
+      "group": "darwin_sick",
+      "speaker": "Darwin"
+    },
+    {
+      "id": "ch02-17",
+      "text": "Le chat est fort.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "teaching",
+      "group": "darwin_sick",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch02-18",
+      "text": "Le chat est malade. Darwin est malade !",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "darwin_sick",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch02-19",
+      "text": "C'est nouveau !",
+      "imagePrompt": "Medium shot, eye-level, of Avril facing the viewer with wide amazed eyes before a dusty blackboard displaying an old chemical formula in chalk that she has just uncovered. The formula is clearly visible and central, a cloth partially draped over the board. Oil lamps cast warm amber highlights, mood excited and revelatory in the underground lab.",
+      "readings": [],
+      "type": "teaching",
+      "group": "discovery",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch02-20",
+      "text": "C'est fort ! C'est nouveau !",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "discovery",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch02-21",
+      "text": "Oui ! C'est nouveau !",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "discovery",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch02-22",
+      "text": "Le chat est dehors.",
+      "imagePrompt": "Medium shot, eye-level, of Darwin the grey cat sitting just outside the underground lab door facing the viewer, the open doorway clearly marking the boundary between inside and outside. The smoky steampunk street stretches behind him under grey daylight, mood quiet and contemplative.",
+      "readings": [],
+      "type": "teaching",
+      "group": "outside",
+      "speaker": "Darwin"
+    },
+    {
+      "id": "ch02-23",
+      "text": "Darwin est dehors.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "outside",
+      "speaker": "Darwin"
+    },
+    {
+      "id": "ch02-24",
+      "text": "Il y a un chat dehors.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "outside",
+      "speaker": "Avril"
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 24,
+      "teachingCount": 12,
+      "flowCount": 12,
+      "flowRatio": 0.5,
+      "panelCount": 7,
+      "newLemmaUsage": {
+        "Franklin": 3,
+        "Paul": 4,
+        "Pizoni": 3,
+        "chat": 6,
+        "dehors": 3,
+        "fort": 3,
+        "malade": 3,
+        "maman": 3,
+        "nouveau": 3,
+        "papa": 3,
+        "savant": 3
+      }
+    }
+  }
+}

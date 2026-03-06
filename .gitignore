@@ -1,0 +1,9 @@
+# Exclude generation scripts and tools
+scripts/
+build/
+contexta/
+corpus/
+draft/
+
+# Exclude loose files in dist root
+dist/all_dialogue.txt

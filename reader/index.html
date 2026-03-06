@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Avril et le Monde Truqué</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ===== LANDING VIEW ===== -->
+  <div id="landing" class="view active">
+    <header class="landing-header">
+      <h1>Avril et le Monde Truqué</h1>
+      <p class="site-subtitle">A French Graded Reader</p>
+    </header>
+    <div class="continue-banner" id="continue-banner" style="display:none;">
+      <button class="continue-btn" id="continue-btn">
+        <span class="continue-label">Continue Reading</span>
+        <span class="continue-chapter" id="continue-chapter-label"></span>
+      </button>
+    </div>
+    <main class="chapter-grid" id="chapter-grid">
+    </main>
+  </div>
+
+  <!-- ===== READER VIEW ===== -->
+  <div id="reader" class="view">
+    <header class="reader-header">
+      <button id="back-btn" class="back-button" aria-label="Back to chapters">
+        <span class="back-arrow">&larr;</span> Back
+      </button>
+      <div class="chapter-meta">
+        <span class="chapter-number" id="reader-chapter-num"></span>
+        <h2 class="chapter-title" id="reader-chapter-title"></h2>
+        <span class="grammar-badge" id="reader-grammar-badge"></span>
+      </div>
+      <!-- Furigana toggle hidden — not needed for French -->
+      <button id="furigana-toggle" class="furigana-toggle" aria-label="Toggle furigana" style="display:none;">
+        <span id="furigana-mode-label">OFF</span>
+      </button>
+    </header>
+
+    <div class="reader-body">
+      <aside class="vocab-panel" id="vocab-panel">
+        <h3 class="vocab-heading" id="vocab-toggle">
+          New Words
+          <span class="vocab-arrow"></span>
+        </h3>
+        <ul class="vocab-list" id="vocab-list"></ul>
+        <div class="scene-info">
+          <h4>Scene</h4>
+          <p class="scene-location" id="scene-location"></p>
+          <p class="scene-characters" id="scene-characters"></p>
+        </div>
+        <div class="appendix-section" id="appendix-section" style="display:none;">
+          <h4 class="appendix-heading">
+            <button class="appendix-toggle" id="appendix-toggle">
+              Study Guide <span class="appendix-arrow">▶</span>
+            </button>
+          </h4>
+          <div class="appendix-content" id="appendix-content"></div>
+        </div>
+      </aside>
+
+      <main class="sentence-scroll" id="sentence-scroll"></main>
+    </div>
+
+    <footer class="reader-footer">
+      <button class="chapter-nav-btn" id="prev-chapter-btn" aria-label="Previous chapter" disabled>
+        &larr; Prev
+      </button>
+      <div class="progress-bar">
+        <div class="progress-fill" id="progress-fill"></div>
+      </div>
+      <span class="progress-text" id="progress-text"></span>
+      <button class="chapter-nav-btn" id="next-chapter-btn" aria-label="Next chapter" disabled>
+        Next &rarr;
+      </button>
+    </footer>
+  </div>
+
+  <script src="app.js?v=2"></script>
+</body>
+</html>

@@ -1,0 +1,314 @@
+{
+  "chapter": 1,
+  "title": "Voilà le pont !",
+  "grammarStep": 0,
+  "grammarName": "Foundation: c'est X, voilà + articles",
+  "scene": {
+    "setting": "Steampunk Paris, 1941. A polluted city of smokestacks, iron cable car towers, and steam-powered vehicles. No trees, no electricity. The sky is grey with soot.",
+    "characters": [],
+    "mood": "establishing, atmospheric",
+    "imagePrefix": "Steampunk Paris panorama, smoky grey sky, iron bridges and cable car towers, coal-powered vehicles, no vegetation, Victorian-era architecture"
+  },
+  "newLemmas": [
+    "pont",
+    "mer",
+    "chapeau",
+    "maison",
+    "Avril",
+    "Darwin",
+    "Pops",
+    "ici",
+    "bon",
+    "jeune",
+    "vieux"
+  ],
+  "whitelist": [
+    "!",
+    "\"",
+    "'",
+    "(",
+    ")",
+    ",",
+    "-",
+    ".",
+    "...",
+    ":",
+    ";",
+    "?",
+    "Avril",
+    "Darwin",
+    "Pops",
+    "bon",
+    "c'est",
+    "ce",
+    "chapeau",
+    "ici",
+    "jeune",
+    "l'",
+    "la",
+    "le",
+    "maison",
+    "mer",
+    "merci",
+    "non",
+    "oui",
+    "pont",
+    "un",
+    "une",
+    "vieux",
+    "voici",
+    "voilà",
+    "«",
+    "»",
+    "être",
+    "—"
+  ],
+  "sentences": [
+    {
+      "id": "ch01-01",
+      "text": "Voilà le pont !",
+      "imagePrompt": "Wide shot, eye-level, of a massive iron bridge spanning the Seine in steampunk Paris 1941, the bridge dominating the center of the frame with grey polluted water below and smokestacks lining the riverbanks. The distant sea glimmers faintly under an overcast grey sky with diffused daylight.",
+      "readings": [],
+      "type": "teaching",
+      "group": "panorama",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch01-02",
+      "text": "C'est la mer.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "teaching",
+      "group": "panorama",
+      "speaker": "Narrateur"
+    },
+    {
+      "id": "ch01-03",
+      "text": "Le pont est ici.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "panorama",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch01-04",
+      "text": "C'est le pont ! C'est la mer !",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "panorama",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch01-05",
+      "text": "Voilà un chapeau !",
+      "imagePrompt": "Close-up, eye-level, of a worn leather steampunk hat with brass goggles resting prominently on a scarred wooden table inside a soot-covered house. A small oil lamp beside the hat casts warm amber light, the dark walls of the cramped room fading into shadow behind.",
+      "readings": [],
+      "type": "teaching",
+      "group": "objects",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch01-06",
+      "text": "Voici la maison.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "teaching",
+      "group": "objects",
+      "speaker": "Narrateur"
+    },
+    {
+      "id": "ch01-07",
+      "text": "La maison est ici.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "objects",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch01-08",
+      "text": "Voilà le chapeau ! Voilà la maison !",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "objects",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch01-09",
+      "text": "C'est un chapeau. C'est la mer.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "objects",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch01-10",
+      "text": "C'est Avril.",
+      "imagePrompt": "Medium shot, eye-level, of Avril facing the viewer in the doorway of a soot-covered steampunk house, her wild red hair framing her determined face, brass goggles pushed up on her forehead. Grey daylight from the polluted Paris street behind her silhouettes the doorframe, mood gritty and resolute.",
+      "readings": [],
+      "type": "teaching",
+      "group": "meet_avril",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch01-11",
+      "text": "Avril est ici.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "teaching",
+      "group": "meet_avril",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch01-12",
+      "text": "C'est Darwin.",
+      "imagePrompt": "Medium shot, eye-level, of Darwin the grey cat sitting upright on a windowsill facing the viewer, his intelligent yellow eyes prominent and alert. Behind him a narrow steampunk alley recedes into haze, grey daylight filtering through the smog, mood quiet and watchful.",
+      "readings": [],
+      "type": "teaching",
+      "group": "meet_darwin",
+      "speaker": "Darwin"
+    },
+    {
+      "id": "ch01-13",
+      "text": "Darwin est bon.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "teaching",
+      "group": "meet_darwin",
+      "speaker": "Darwin"
+    },
+    {
+      "id": "ch01-14",
+      "text": "Darwin est ici.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "meet_darwin",
+      "speaker": "Darwin"
+    },
+    {
+      "id": "ch01-15",
+      "text": "Darwin est bon !",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "meet_darwin",
+      "speaker": "Darwin"
+    },
+    {
+      "id": "ch01-16",
+      "text": "C'est Pops.",
+      "imagePrompt": "Medium shot, eye-level, of Pops the elderly grandfather facing the viewer in the doorway of the steampunk house, his wild white hair and threadbare lab coat clearly visible. Warm oil-lamp glow spills from inside behind him, contrasting with the grey polluted street light, mood gentle and weary.",
+      "readings": [],
+      "type": "teaching",
+      "group": "meet_pops",
+      "speaker": "Pops"
+    },
+    {
+      "id": "ch01-17",
+      "text": "Pops est vieux.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "teaching",
+      "group": "meet_pops",
+      "speaker": "Pops"
+    },
+    {
+      "id": "ch01-18",
+      "text": "Pops est bon !",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "meet_pops",
+      "speaker": "Pops"
+    },
+    {
+      "id": "ch01-19",
+      "text": "Pops est bon ! C'est bon !",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "meet_pops",
+      "speaker": "Pops"
+    },
+    {
+      "id": "ch01-20",
+      "text": "Avril est jeune.",
+      "imagePrompt": "Medium shot, eye-level, of Avril and Pops standing side by side facing the viewer on a steampunk Paris rooftop, Avril's smooth youthful face contrasting sharply with Pops' deeply lined weathered face. Smokestacks and grey haze fill the background, soft diffused daylight, mood bittersweet and reflective.",
+      "readings": [],
+      "type": "teaching",
+      "group": "contrast",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch01-21",
+      "text": "Pops est vieux.",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "contrast",
+      "speaker": "Pops"
+    },
+    {
+      "id": "ch01-22",
+      "text": "Avril est jeune !",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "contrast",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch01-23",
+      "text": "Oui, Avril est jeune !",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "contrast",
+      "speaker": "Avril"
+    },
+    {
+      "id": "ch01-24",
+      "text": "Pops est vieux. Oui, vieux !",
+      "imagePrompt": "",
+      "readings": [],
+      "type": "flow",
+      "group": "contrast",
+      "speaker": "Pops"
+    }
+  ],
+  "validation": {
+    "pass": true,
+    "whitelistViolations": [],
+    "unseenCapViolations": [],
+    "recyclingFailures": [],
+    "sentenceLengthViolations": [],
+    "blockedViolations": [],
+    "leakViolations": [],
+    "summary": "PASS",
+    "stats": {
+      "sentenceCount": 24,
+      "teachingCount": 11,
+      "flowCount": 13,
+      "flowRatio": 0.54,
+      "panelCount": 6,
+      "newLemmaUsage": {
+        "Avril": 5,
+        "Darwin": 4,
+        "Pops": 6,
+        "bon": 5,
+        "chapeau": 3,
+        "ici": 4,
+        "jeune": 3,
+        "maison": 3,
+        "mer": 3,
+        "pont": 3,
+        "vieux": 4
+      }
+    }
+  }
+}
