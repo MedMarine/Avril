@@ -1,0 +1,69 @@
+{
+  "chapter": 3,
+  "grammarNote": {
+    "title": "He, She, It: il est, elle est",
+    "explanation": "C'est Julius. Now look: Il est là. The word il points back to Julius. Similarly, C'est Chimène and then elle replaces her.\n\nNotice il (he/it) and elle (she/it). Each one replaces a person or thing already named.\n\nRe-read and trace every il and elle back to the noun it replaces."
+  },
+  "vocabulary": [
+    {
+      "word": "Julius",
+      "kanji": "",
+      "reading": "Julius",
+      "meaning": "Julius, the male lead"
+    },
+    {
+      "word": "Papa",
+      "kanji": "",
+      "reading": "Papa",
+      "meaning": "Papa, grandfather figure"
+    },
+    {
+      "word": "Chimène",
+      "kanji": "",
+      "reading": "Chimène",
+      "meaning": "Chimène, a character"
+    },
+    {
+      "word": "grand-père",
+      "kanji": "",
+      "reading": "grand-père",
+      "meaning": "grandfather"
+    },
+    {
+      "word": "fille",
+      "kanji": "",
+      "reading": "fille",
+      "meaning": "girl, daughter"
+    },
+    {
+      "word": "fusée",
+      "kanji": "",
+      "reading": "fusée",
+      "meaning": "rocket"
+    },
+    {
+      "word": "monsieur",
+      "kanji": "",
+      "reading": "monsieur",
+      "meaning": "sir, mister"
+    },
+    {
+      "word": "bleu",
+      "kanji": "",
+      "reading": "bleu",
+      "meaning": "blue"
+    },
+    {
+      "word": "vert",
+      "kanji": "",
+      "reading": "vert",
+      "meaning": "green"
+    },
+    {
+      "word": "long",
+      "kanji": "",
+      "reading": "long",
+      "meaning": "long"
+    }
+  ]
+}

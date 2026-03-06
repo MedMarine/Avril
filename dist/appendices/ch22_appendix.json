@@ -1,0 +1,57 @@
+{
+  "chapter": 22,
+  "grammarNote": {
+    "title": "Relative Clauses: qui",
+    "explanation": "L'enfant qui joue a gagné. — the child WHO plays has won. The word qui connects two ideas about the same person.\n\nNotice the structure: [noun] + qui + [verb]. The qui clause adds information about the noun.\n\nRe-read and find every qui. What extra information does it add each time?"
+  },
+  "vocabulary": [
+    {
+      "word": "gagner",
+      "kanji": "",
+      "reading": "gagner",
+      "meaning": "to win, to earn"
+    },
+    {
+      "word": "terminer",
+      "kanji": "",
+      "reading": "terminer",
+      "meaning": "to finish, to end"
+    },
+    {
+      "word": "attraper",
+      "kanji": "",
+      "reading": "attraper",
+      "meaning": "to catch"
+    },
+    {
+      "word": "fabriquer",
+      "kanji": "",
+      "reading": "fabriquer",
+      "meaning": "to make, to build"
+    },
+    {
+      "word": "sécurité",
+      "kanji": "",
+      "reading": "sécurité",
+      "meaning": "safety, security"
+    },
+    {
+      "word": "plaisir",
+      "kanji": "",
+      "reading": "plaisir",
+      "meaning": "pleasure"
+    },
+    {
+      "word": "numéro",
+      "kanji": "",
+      "reading": "numéro",
+      "meaning": "number"
+    },
+    {
+      "word": "parole",
+      "kanji": "",
+      "reading": "parole",
+      "meaning": "word (spoken), promise"
+    }
+  ]
+}

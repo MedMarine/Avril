@@ -1,0 +1,51 @@
+{
+  "chapter": 4,
+  "grammarNote": {
+    "title": "First Person + Negation",
+    "explanation": "Annette est ma maman. The word ma means 'my' — Annette belongs to the speaker.\n\nNow watch for ne...pas: Ce n'est pas le chat. The two words ne and pas wrap around the verb to deny it.\n\nRe-read and find every ma/mon. Who is speaking? Then find ne...pas. What gets denied?"
+  },
+  "vocabulary": [
+    {
+      "word": "Annette",
+      "kanji": "",
+      "reading": "Annette",
+      "meaning": "Annette, Avril's grandmother"
+    },
+    {
+      "word": "Rodrigue",
+      "kanji": "",
+      "reading": "Rodrigue",
+      "meaning": "Rodrigue, a character"
+    },
+    {
+      "word": "Prosper",
+      "kanji": "",
+      "reading": "Prosper",
+      "meaning": "Prosper, a character"
+    },
+    {
+      "word": "main",
+      "kanji": "",
+      "reading": "main",
+      "meaning": "hand"
+    },
+    {
+      "word": "lézard",
+      "kanji": "",
+      "reading": "lézard",
+      "meaning": "lizard"
+    },
+    {
+      "word": "tête",
+      "kanji": "",
+      "reading": "tête",
+      "meaning": "head"
+    },
+    {
+      "word": "chêne",
+      "kanji": "",
+      "reading": "chêne",
+      "meaning": "oak tree"
+    }
+  ]
+}
